@@ -2,9 +2,9 @@ import './App.css';
 
 function App() {  
 
+  const name="surya";
   return (
     <div className="App">
-  const name="surya";
   <h1>Hi {name}😎!!!</h1>
     </div>
   );
